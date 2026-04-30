@@ -12,39 +12,49 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 * Explore and categorize content based on specific criteria and keywords.
 
 ## 📊 Content Analysis & Insights
-    * Distribution of Content Types
-       * The dataset consists of two primary categories: Movies and TV Shows.
-       * Movies dominate the platform, contributing a significantly higher percentage compared to TV Shows.
-       * TV Shows form a smaller but steadily growing portion of the content library.
-    * Ratings Analysis
-       * Movies:
-          * The most common ratings are TV-MA and TV-14, indicating a strong presence of mature and teen-oriented content.
-       * TV Shows:
-          * Similarly, TV-MA and TV-14 are the most frequent ratings.
-          * A smaller portion includes family-friendly ratings like TV-PG and TV-Y.
-    * Release Year Trends
-       * A noticeable increase in content production is observed after 2010.
-       * Peak content additions occur in recent years, showing platform expansion.
-       * Older content (pre-2000) exists but represents a smaller fraction of the dataset.
-    * Country-wise Distribution
-       * The majority of content originates from:
-          * United States (largest contributor)
-          * India (significant and growing share)
-          * United Kingdom and Canada
-       * Multi-country collaborations are also present, indicating global production trends.
-    * Duration Analysis
-       * Movies:
-          * Typically range between 80–120 minutes, with most clustering around the 90-minute mark.
-       * TV Shows:
-          * Measured in seasons rather than minutes.
-          * Most shows have 1–3 seasons, indicating limited-series popularity.
-     * Content Categorization (Keywords & Genres)
-         * Content is categorized based on keywords such as:
-         * Drama, Comedy, Action, Thriller, Documentary
-     * Popular Trends:
-         * Dramas and Comedies dominate across both Movies and TV Shows.
-         * Documentaries and international content have seen recent growth.
-         * Action and Thriller genres maintain consistent popularity.
+
+- **Distribution of Content Types**
+  - The dataset consists of two primary categories: Movies and TV Shows.
+  - Movies dominate the platform, contributing a significantly higher percentage compared to TV Shows.
+  - TV Shows form a smaller but steadily growing portion of the content library.
+
+- **Ratings Analysis**
+  - **Movies:**
+    - The most common ratings are TV-MA and TV-14, indicating a strong presence of mature and teen-oriented content.
+  - **TV Shows:**
+    - Similarly, TV-MA and TV-14 are the most frequent ratings.
+    - A smaller portion includes family-friendly ratings like TV-PG and TV-Y.
+
+- **Release Year Trends**
+  - A noticeable increase in content production is observed after 2010.
+  - Peak content additions occur in recent years, showing platform expansion.
+  - Older content (pre-2000) exists but represents a smaller fraction of the dataset.
+
+- **Country-wise Distribution**
+  - The majority of content originates from:
+    - United States (largest contributor)
+    - India (significant and growing share)
+    - United Kingdom and Canada
+  - Multi-country collaborations are also present, indicating global production trends.
+
+- **Duration Analysis**
+  - **Movies:**
+    - Typically range between 80–120 minutes, with most clustering around the 90-minute mark.
+  - **TV Shows:**
+    - Measured in seasons rather than minutes.
+    - Most shows have 1–3 seasons, indicating limited-series popularity.
+
+- **Content Categorization (Keywords & Genres)**
+  - Content is categorized based on keywords such as:
+    - Drama
+    - Comedy
+    - Action
+    - Thriller
+    - Documentary
+  - **Popular Trends:**
+    - Dramas and Comedies dominate across both Movies and TV Shows.
+    - Documentaries and international content have seen recent growth.
+    - Action and Thriller genres maintain consistent popularity.
 
 ## Dataset
 The data for this project is sourced from the Kaggle dataset:
