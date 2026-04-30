@@ -16,14 +16,7 @@ CREATE TABLE netflix
 	listed_in VARCHAR(100),
 	description VARCHAR(250)
 );
-SELECT * FROM netflix;
 
-SELECT COUNT(*) AS total_content
-FROM netflix;
-
-
-SELECT DISTINCT type
-FROM netflix;
 
 
 
