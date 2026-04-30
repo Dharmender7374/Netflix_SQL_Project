@@ -12,7 +12,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 * Explore and categorize content based on specific criteria and keywords.
 
 
-## 📊 Content Analysis & Insights
+# 📊 Content Analysis & Insights
     * Distribution of Content Types
       * The dataset consists of two primary categories: Movies and TV Shows.
       * Movies dominate the platform, contributing a significantly higher percentage           compared to TV Shows.
